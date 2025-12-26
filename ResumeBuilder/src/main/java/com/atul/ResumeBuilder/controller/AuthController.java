@@ -5,7 +5,6 @@ import com.atul.ResumeBuilder.dto.LoginRequest;
 import com.atul.ResumeBuilder.dto.RegisterRequest;
 import com.atul.ResumeBuilder.service.AuthService;
 import com.atul.ResumeBuilder.service.FileUploadService;
-import jakarta.mail.Multipart;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
